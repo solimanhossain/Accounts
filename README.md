@@ -1,4 +1,4 @@
-#  SOCIAL ACCOUNTS
+# SOCIAL  ACCOUNTS
 ### Online Contact List :<br>
 > <img src="https://services.claremont.edu/chaplains/wp-content/uploads/sites/9/2018/02/instagram-logo-png-transparent-background-1024x1024.png" width="15"> [@solimanhossains](https://instagram.com/solimanhossains)<br><br>
 <img src="https://i.imgur.com/N5bEvsB.png" width="15"> [@solimanhossains](https://facebook.com/solimanhossains/)<br><br>
