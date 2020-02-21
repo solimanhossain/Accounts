@@ -2,9 +2,7 @@
 :snowman: ```Hey, I am Soliman Hossain SOHAN. ```<br><br>
 ### Online Contact List :<br>
 >
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="15"> [Gmail:](http://gmail.com/) soliman203641@gmai.com<br><br>
-[@solimanhossain](https://github.com/solimanhossain)
-
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="15"> [Gmail:](http://gmail.com/)soliman203641@gmail.com<br><br>
 <br>
 
 <table>
