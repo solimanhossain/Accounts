@@ -1,6 +1,6 @@
 # SOLIMAN HOSSAIN
 :snowman: ```Connect with me :```<br>
-> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="10"> soliman203641@gmail.com<br>
+> <img src="https://i.imgur.com/AaPkpoy.png" width="10"> soliman203641@gmail.com<br>
 <table>
 <tr>
 <td><a href="https://facebook.com/solimanhossains"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125"></a></td>
