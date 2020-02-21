@@ -1,5 +1,5 @@
 # SOLIMAN HOSSAIN
-:snowman: ```Hey, here is my accounts:```<br>
+:snowman: ```Here is my accounts:```<br>
 > <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="15"> soliman203641@gmail.com<br>
 
 <table>
