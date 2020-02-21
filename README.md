@@ -1,6 +1,6 @@
 # SOLIMAN HOSSAIN
 :snowman: ```Here is my accounts:```<br>
-> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="15">#Soliman203641@gmail.com<br>
+> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="15">: Soliman203641@gmail.com<br>
 
 <table>
 <tr>
