@@ -1,10 +1,6 @@
 # SOCIAL ACCOUNTS
 :snowman: ```Hey, I am Soliman Hossain SOHAN. ```<br><br>
-### Online Contact List :<br>
->
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="15"> [Gmail:](http://gmail.com/)soliman203641@gmail.com<br><br>
-<br>
-
+> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="15"> [Gmail:](http://gmail.com/)soliman203641@gmail.com<br><br>
 <table>
 <tr>
 <td>Facebook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125" title="Facebook" /><br><a href="https://facebook.com/solimanhossains/">@solimanhossains</a></td>
