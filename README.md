@@ -5,11 +5,10 @@
 
 <table>
 <tr>
-<td><a href="https://facebook.com/solimanhossains"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125"></a></td>
-<td><a href="https://t.me/solimanhossain/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="125"></a></td>
-<td><a href="https://instagram.com/solimanhossains"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="125"></a></td>
 <td><a href="https://twitter.com/solimanhossains"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125"></a></td>
 <td><a href="https://linkedin.com/in/solimanhossain"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125"></td>
+<td><a href="https://facebook.com/solimanhossains"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125"></a></td>
+<td><a href="https://t.me/solimanhossain/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="125"></a></td>
 </tr>
 <tr>
 <td><a href="https://pixabay.com/users/solimanhossain-16131188/"><img src="https://cdn.worldvectorlogo.com/logos/pixabay.svg" width="125"></a></td>
